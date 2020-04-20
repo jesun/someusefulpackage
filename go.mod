@@ -1,4 +1,4 @@
-module gopkg.in/jesun/someusefulpackage
+module gopkg.in/jesun/someusefulpackage.v0
 
 go 1.13
 
